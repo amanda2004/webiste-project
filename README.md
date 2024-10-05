@@ -1,1 +1,2 @@
-# webiste-project
+# Webiste-Project
+This website is a personal project I created to showcase my skills in HTML and CSS by building a site locally from the ground up. It serves as a platform where I share my personal experiences, including my journey in tech, projects, and insights. Through this project, I aimed to apply the fundamental principles of web development, focusing on creating a clean, responsive design while reflecting my personality and experiences. It’s a demonstration of my growing expertise in front-end development and a step toward more complex web projects.
